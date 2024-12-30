@@ -11,7 +11,7 @@ function App() {
        <StyledEngineProvider injectFirst> 
          <Navbar/>
          {/* <Outlet /> */}
-         <Hero/>
+         <Hero/>   
        </StyledEngineProvider>
     </>
   );
